@@ -4,6 +4,7 @@
  * Description:     Quickly duplicate coupon with the same rules
  * Author:          Mateusz Zadorożny
  * Author URI:      https://zadorozny.rocks
+ * Requires plugins: woocommerce
  * Text Domain:     CouponDuplicator
  * Domain Path:     /languages
  * Version:         0.1.0
